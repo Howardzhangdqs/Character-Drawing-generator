@@ -40,4 +40,6 @@ g++ -o "何同学.exe" -static-libgcc "cheat2.mp4.cpp"
 ## Features 特色
 
 输出的C++程序内含何同学色特：
+![未标题-1](https://user-images.githubusercontent.com/75195784/185288219-8a04e096-a4e7-492e-86b2-211568ae8a42.png)
+
 
