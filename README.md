@@ -28,7 +28,7 @@ python "main.py" -i "何同学.mp4" -o "何同学.cpp" -s 150x50 -c
 再通过g++编译
 
 ```bash
-g++ -o "何同学.exe" -static-libgcc "cheat2.mp4.cpp"
+g++ -o "何同学.exe" -static-libgcc "何同学.cpp"
 ```
 
 打开`何同学.exe`即可观看
