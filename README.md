@@ -8,18 +8,14 @@
 使用: main.py [-h] [--version] --input INPUT [--color] [--width WIDTH] [--height HEIGHT] [--size SIZE] [--output OUTPUT]
 
 可选参数:
-  -h, --help                 显示帮助信息并退出
-  --version, -v              显示版本
-  --input INPUT, -i INPUT
-                             视频地址 (必填)
-  --color, -c                是否生成彩色字符画 (默认值: False)
-  --width WIDTH, -ww WIDTH
-                             字符画宽 (默认值: 120, 单位: 字符)
-  --height HEIGHT, -hh HEIGHT
-                             字符画高 (默认值: 30, 单位: 字符)
-  --size SIZE, -s SIZE       字符画大小 (-ww 和 -hh 的缩写) (默认值: 120x30, 单位: 字符)
-  --output OUTPUT, -o OUTPUT
-                             字符画输出地址 (默认值: ./${input path}.cpp)
+  -h, --help                   显示帮助信息并退出
+  --version, -v                显示版本
+  --input INPUT, -i INPUT      视频地址 (必填)
+  --color, -c                  是否生成彩色字符画 (默认值: False)
+  --width WIDTH, -ww WIDTH     字符画宽 (默认值: 120, 单位: 字符)
+  --height HEIGHT, -hh HEIGHT  字符画高 (默认值: 30, 单位: 字符)
+  --size SIZE, -s SIZE         字符画大小 (-ww 和 -hh 的缩写) (默认值: 120x30, 单位: 字符)
+  --output OUTPUT, -o OUTPUT   字符画输出地址 (默认值: ./${input path}.cpp)
 ```
 样例：
 
